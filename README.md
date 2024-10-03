@@ -1,7 +1,7 @@
 # To-Do App in Visual Basic 📋
 Even though Visual Basic might not be the most popular language nowadays, it holds a special place in my heart ❤️.
 
-### 🎯 Features
+## 🎯 Features
 - **Add Tasks**: Quickly add new tasks to your list. 📝
 - **List Tasks**: View all your tasks along with their completion status. 📜
 - **Complete Tasks**: Mark tasks as completed when you finish them. ✔️
